@@ -1,7 +1,7 @@
 <%-- 
     Document   : menu
     Created on : 13/07/2020, 09:23:57 AM
-    Author     : USER
+    Author     : Hbrt
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -12,6 +12,9 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        bbbbbbbb<br>
+        1.fffffffff<br>
+        2.rrrrrrrrr<br>
+        6.salir
     </body>
 </html>
